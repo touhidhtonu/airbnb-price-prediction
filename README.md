@@ -100,7 +100,4 @@ Average CV R² : 0.2802 ± 0.0677
 ```
 2. Run notebooks or Python scripts inside `notebooks/`.
 
-
----
-
 ```
