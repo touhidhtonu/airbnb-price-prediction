@@ -96,8 +96,4 @@ Average CV R² : 0.2802 ± 0.0677
    git clone https://github.com/touhidhtonu/airbnb-price-prediction.git
    cd airbnb-price-prediction
    ```
-
-```
 2. Run notebooks or Python scripts inside `notebooks/`.
-
-```
